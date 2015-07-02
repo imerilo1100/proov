@@ -12,14 +12,16 @@
 <body>
 	<h2>Palun valige asutus, mida soovite hinnata:</h2>
 	
+	<div class="asutustetabel">
 	<table>
-	<tr>
-		<td>Nimi</td>
-		<td>Asukoht</td>
-		<td>Keskmine hinnang</td>
-		<td>Hindajaid</td>
-	</tr>
-	</table>
+		<tr>
+			<td>Nimi</td>
+			<td>Asukoht</td>
+			<td>Keskmine hinnang</td>
+			<td>Hindajaid</td>
+		</tr>
+		</table>
+	</div>
 <!--	<c:url value="Kategooria" var="variable" />
     ${findKategooriaByID(3)} -->  
     
