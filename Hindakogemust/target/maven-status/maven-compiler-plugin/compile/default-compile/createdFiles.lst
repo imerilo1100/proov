@@ -1,0 +1,9 @@
+hindakogemust/db/service/KategooriaService.class
+hindakogemust/db/model/Hinnang.class
+hindakogemust/db/model/Asutus.class
+hindakogemust/db/dao/KategooriaDAOImpl.class
+hindakogemust/db/dao/KategooriaDAO.class
+hindakogemust/db/DBApp.class
+hindakogemust/db/service/KategooriaServiceImpl.class
+hindakogemust/db/model/Kategooria.class
+hindakogemust/db/KategooriaController.class

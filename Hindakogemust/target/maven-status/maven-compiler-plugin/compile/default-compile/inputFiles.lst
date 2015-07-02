@@ -1,0 +1,9 @@
+/home/iris/tpt/Hindakogemust/src/main/java/hindakogemust/db/DBApp.java
+/home/iris/tpt/Hindakogemust/src/main/java/hindakogemust/db/model/Hinnang.java
+/home/iris/tpt/Hindakogemust/src/main/java/hindakogemust/db/model/Kategooria.java
+/home/iris/tpt/Hindakogemust/src/main/java/hindakogemust/db/KategooriaController.java
+/home/iris/tpt/Hindakogemust/src/main/java/hindakogemust/db/dao/KategooriaDAO.java
+/home/iris/tpt/Hindakogemust/src/main/java/hindakogemust/db/service/KategooriaServiceImpl.java
+/home/iris/tpt/Hindakogemust/src/main/java/hindakogemust/db/service/KategooriaService.java
+/home/iris/tpt/Hindakogemust/src/main/java/hindakogemust/db/dao/KategooriaDAOImpl.java
+/home/iris/tpt/Hindakogemust/src/main/java/hindakogemust/db/model/Asutus.java
